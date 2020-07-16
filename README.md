@@ -1,3 +1,5 @@
+[![bg][banner]][website]
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[banner]: https://github.com/sebastiangon11/sebastiangon11/blob/master/banner.png?raw=true
+[repositories]: https://github.com/sebastiangon11?tab=repositories
