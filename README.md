@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[banner]: https://github.com/sebastiangon11/sebastiangon11/blob/master/banner.png?raw=true
+[banner]: https://github.com/sebastiangon11/sebastiangon11/blob/master/banners/banner1.png?raw=true
 [repositories]: https://github.com/sebastiangon11?tab=repositories
