@@ -1,4 +1,4 @@
-![bg][banner]][website]
+[![bg][banner]][repositories]
 
 ### Hi there 👋
 
